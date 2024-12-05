@@ -1,0 +1,10 @@
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\newvending\bin\Debug\newvending.exe.config
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\newvending\bin\Debug\newvending.exe
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\newvending\bin\Debug\newvending.pdb
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\newvending\obj\Debug\newvending.csproj.AssemblyReference.cache
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\newvending\obj\Debug\newvending.Properties.Resources.resources
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\newvending\obj\Debug\newvending.csproj.GenerateResource.cache
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\newvending\obj\Debug\newvending.csproj.CoreCompileInputs.cache
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\newvending\obj\Debug\newvending.exe
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\newvending\obj\Debug\newvending.pdb
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\newvending\obj\Debug\newvending.MainForm.resources

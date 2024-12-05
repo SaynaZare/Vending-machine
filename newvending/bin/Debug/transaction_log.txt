@@ -1,0 +1,118 @@
+Transaction Date: 27/10/2024 16:16:55
+Items Purchased:
+1x Chips             : 2.10£
+1x Donut             : 1.50£
+1x Sandwich          : 6.42£
+Total: 10.02£
+Amount Paid: 10.5£
+Change Given: 0.48£
+--------------------------------------------------------
+Transaction Date: 29/10/2024 14:11:56
+Items Purchased:
+2x Pizza             : 9.1£
+1x Sandwich          : 6.42£
+4x IceCream          : 13.16£
+1x Drink             : 3.20£
+Total: 31.88£
+Amount Paid: 36£
+Change Given: 4.12£
+--------------------------------------------------------
+Transaction Date: 31/10/2024 00:28:19
+Items Purchased:
+1x Pizza             : 4.55£
+1x Donut             : 1.50£
+1x IceCream          : 3.29£
+1x Sandwich          : 6.42£
+1x Drink             : 3.20£
+Total: 18.96£
+Amount Paid: 26.5£
+Change Given: 7.54£
+--------------------------------------------------------
+Transaction Date: 31/10/2024 00:29:26
+Items Purchased:
+1x Pizza             : 4.55£
+1x Drink             : 3.20£
+Total: 7.75£
+Amount Paid: 10£
+Change Given: 2.25£
+--------------------------------------------------------
+Transaction Date: 31/10/2024 00:31:18
+Items Purchased:
+1x Chips             : 2.10£
+1x IceCream          : 3.29£
+1x Sandwich          : 6.42£
+1x Pizza             : 4.55£
+1x Donut             : 1.50£
+2x Drink             : 6.4£
+Total: 24.26£
+Amount Paid: 25£
+Change Given: 0.740000000000002£
+--------------------------------------------------------
+Transaction Date: 31/10/2024 00:34:46
+Items Purchased:
+1x Chips             : 2.10£
+1x IceCream          : 3.29£
+1x Sandwich          : 6.42£
+Total: 11.81£
+Amount Paid: 16£
+Change Given: 4.19£
+--------------------------------------------------------
+Transaction Date: 31/10/2024 00:35:07
+Items Purchased:
+Total: 11.81£
+Amount Paid: 20£
+Change Given: 8.19£
+--------------------------------------------------------
+Transaction Date: 31/10/2024 00:35:52
+Items Purchased:
+1x Pizza             : 4.55£
+Total: 4.55£
+Amount Paid: 5£
+Change Given: 0.45£
+--------------------------------------------------------
+Transaction Date: 31/10/2024 00:41:18
+Items Purchased:
+1x Pizza             : 4.55£
+Total: 4.55£
+Amount Paid: 10£
+Change Given: 5.45£
+--------------------------------------------------------
+Transaction Date: 31/10/2024 00:45:26
+Items Purchased:
+1x Chips             : 2.10£
+1x Pizza             : 4.55£
+1x IceCream          : 3.29£
+Total: 9.94£
+Amount Paid: 10£
+Change Given: 0.0599999999999987£
+--------------------------------------------------------
+Transaction Date: 31/10/2024 00:49:38
+Items Purchased:
+1x Chips             : 2.10£
+Total: 2.1£
+Amount Paid: 10£
+Change Given: 7.9£
+--------------------------------------------------------
+Transaction Date: 31/10/2024 00:49:48
+Items Purchased:
+1x Pizza             : 4.55£
+Total: 4.55£
+Amount Paid: 5.5£
+Change Given: 0.95£
+--------------------------------------------------------
+Transaction Date: 31/10/2024 01:14:19
+Items Purchased:
+1x Pizza             : 4.55£
+Total: 4.55£
+Amount Paid: 10£
+Change Given: 5.45£
+--------------------------------------------------------
+Transaction Date: 01/11/2024 16:15:27
+Items Purchased:
+1x Pizza             : 4.55£
+1x Donut             : 1.50£
+1x IceCream          : 3.29£
+Total: 9.34£
+Amount Paid: 10£
+Change Given: 0.66£
+--------------------------------------------------------
